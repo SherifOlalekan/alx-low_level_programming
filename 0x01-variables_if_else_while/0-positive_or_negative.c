@@ -8,7 +8,7 @@
 * Description: This program display random number when it is run
 */
 /**
-* int - can only return integer value
+* @int: can only return integer value
 */
 int main(void)
 {
