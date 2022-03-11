@@ -2,15 +2,11 @@
 /**
 *Programming is like building a multilingual puzzle
 *
-*
+*main(void) - Entry point
 *puts: used to display lines in the terminal
-*return: return a value which is 0
+*return: always 0.
 */
 int main(void)
-/**
-*main- Entry point, first function to be executed
-*void-no input argument
-*/
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
