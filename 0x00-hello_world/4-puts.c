@@ -3,8 +3,8 @@
 /**
 * Description: Programming is like building a multilingual puzzle
 *
-* Main(void) - Entry point
-* puts: used to display lines in the terminal
+* main - Entry point
+* puts: A display function
 * Return: Always 0.
 */
 int main(void)
