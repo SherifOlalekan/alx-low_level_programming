@@ -3,7 +3,8 @@
 #include <time.h>
 /**
 * main - Entry point
-* @Return: Always 0 (Success)
+* @void: returns no value
+*
 *
 * Description: This program display random number when it is run
 */
