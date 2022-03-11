@@ -2,13 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Program to print random number great than or equal to 0
-*/
-
-/**
-* main: Entry point
+* main - Entry point
+* @Return: Always 0 (Success)
 *
-* Return: Always 0 (Success)
+* Description: This program display random number when it is run
 */
 int main(void)
 {
