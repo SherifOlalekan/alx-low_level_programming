@@ -3,9 +3,9 @@
 /**
 * Descripion: Determination of datatype sizes
 *
-* main - Entry point
+* main - Prints the size of various datatypes
 *
-* Return - If correct (0)
+* Return - Always 0 (Success)
 */
 int main(void)
 
