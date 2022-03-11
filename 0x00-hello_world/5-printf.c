@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* Description: Using printf to display value;
+* Short Description: Using printf to display value;
 *
-*int main - Entry point
+* Function main - Entry point
 *
 * Return: Always 0(success)
 *
