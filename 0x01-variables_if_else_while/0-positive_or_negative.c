@@ -4,9 +4,11 @@
 /**
 * main - Entry point
 * @void: returns no value
-* @int: can only return integer value
 *
 * Description: This program display random number when it is run
+*/
+/**
+* int - can only return integer value
 */
 int main(void)
 {
