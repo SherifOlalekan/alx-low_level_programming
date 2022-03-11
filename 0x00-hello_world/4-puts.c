@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*Programming is like building a multilingual puzzle
+*Description: Programming is like building a multilingual puzzle
 *
 *main(void) - Entry point
 *puts: used to display lines in the terminal
