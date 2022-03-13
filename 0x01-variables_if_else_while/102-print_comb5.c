@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
 * main - Entry point
 * @void: return no value if true
