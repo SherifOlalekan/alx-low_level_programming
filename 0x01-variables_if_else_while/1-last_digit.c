@@ -13,7 +13,7 @@ int main(void)
 {
 	int n, ld;
 
-	printf("Enter a value: ");
+	printf("Enter a value: \n");
 	scanf("%d", &n);
 
 	srand(time(0));
