@@ -13,10 +13,10 @@
 	int ch;
 
 	{
-	for (ch = 0; ch <= 10; ch++)
+	for (ch = 48; ch <= 58; ch++)
 	putchar (ch);
 
-	for (ch = 61; ch <= 67; ch++)
+	for (ch = '97'; ch <= 103; ch++)
 	putchar (ch);
 	}
 	putchar ('\n');
