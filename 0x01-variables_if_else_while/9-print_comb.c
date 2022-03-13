@@ -18,7 +18,7 @@
 
 		if (i <= 56)
 		putchar(',');
-		if (i < 56)
+		if (i <= 56)
 		putchar(' ');
 	}
 	putchar('\n');
