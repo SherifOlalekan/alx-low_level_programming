@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - Prints the size of various datatypes
-* @void: returns no value if true
+* main - Entry point
+* @void: returns 0 if true
 *
 * Return - Always 0 (Success)
 *
-* Description: Program to display the sizeof
+* Program to display the sizeof
 */
 int main(void)
 
