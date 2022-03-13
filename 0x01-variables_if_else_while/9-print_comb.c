@@ -20,7 +20,7 @@
 		putchar(',');
 		putchar(' ');
 	}
-	putchar(10);
+	putchar(9);
 	return (0);
 }
 
