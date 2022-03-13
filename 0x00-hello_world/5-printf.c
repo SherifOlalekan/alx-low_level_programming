@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
-* Short Description: Using printf to display value;
-*
-* Function main - Entry point
+* main - Entry point
+* @void: returns no value if it is true
 *
 * Return: Always 0(success)
 *
+* Description: Using the printf function
 */
 int main(void)
 {
