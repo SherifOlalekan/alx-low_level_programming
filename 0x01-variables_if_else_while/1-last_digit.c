@@ -11,7 +11,7 @@
 */
 int main(void)
 {
-	int n;
+	int n = 0;
 	int ld = n % 10;
 
 	srand(time(0));
