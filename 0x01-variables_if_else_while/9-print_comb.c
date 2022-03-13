@@ -16,7 +16,7 @@
 	{
 	putchar(i);
 
-		if (i < 57)
+		if (i < 56)
 		putchar(',');
 		putchar(' ');
 	}
