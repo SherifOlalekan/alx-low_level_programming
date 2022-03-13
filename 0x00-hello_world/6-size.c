@@ -3,7 +3,7 @@
 * main - Entry point
 * @void: Returns no value if it is true
 *
-* Return - Always 0 (Success)
+* Return:  Always 0 (Success)
 *
 * Program to display the sizeof
 */
