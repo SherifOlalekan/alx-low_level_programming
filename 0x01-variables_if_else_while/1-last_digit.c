@@ -12,7 +12,7 @@
 int main(void)
 {
 	int n, ld;
-	printf("Enter a value: ")
+	printf("Enter a value: ");
 	scanf("%d", &n);
 	
 	ld = n % 10;
