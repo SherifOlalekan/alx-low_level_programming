@@ -5,7 +5,7 @@
 *
 * Return: Always 0(success)
 *
-* Description: Using the printf function
+* Program to use the printf function
 */
 int main(void)
 {
