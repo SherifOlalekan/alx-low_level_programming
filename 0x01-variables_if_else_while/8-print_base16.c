@@ -14,9 +14,9 @@
 
 	{
 	for (ch = 0; ch <= 10; ch++)
-	puchar (ch);
+	putchar (ch);
 
-	for (ch = '61'; ch <= 67; ch++)
+	for (ch = 61; ch <= 67; ch++)
 	putchar (ch);
 	}
 	putchar ('\n');
