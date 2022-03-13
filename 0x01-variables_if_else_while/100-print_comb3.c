@@ -14,7 +14,7 @@
 
 	for (left = 48; left <= 57; left++)
 	{
-		for (right = left +1; right <= 57; right++)
+		for (right = left + 1; right <= 57; right++)
 			{
 			putchar(left);
 			putchar(right);
@@ -30,4 +30,4 @@
 	putchar('\n');
 
 	return (0);
-}	
+}
