@@ -11,8 +11,11 @@
 */
 int main(void)
 {
-	int n = 0;
-	int ld = n % 10;
+	int n, ld;
+	printf("Enter a value: ")
+	scanf("%d", &n);
+	
+	ld = n % 10;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
