@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* @void: returns no value if it is true
+* @void: Returns no value if it is true
 *
 * Return: Always 0(success)
 *

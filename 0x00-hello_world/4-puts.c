@@ -1,11 +1,12 @@
 #include <stdio.h>
-
 /**
-* Description: Programming is like building a multilingual puzzle
-*
 * main - Entry point
+* @void: Return no value if is true
 * puts: A display function
+*
 * Return: Always 0.
+*
+* Using the Puts function
 */
 int main(void)
 {
