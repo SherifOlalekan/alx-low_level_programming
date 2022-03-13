@@ -13,9 +13,6 @@ int main(void)
 {
 	int n, ld;
 
-	printf("Enter a value: \n");
-	scanf("%d", &n);
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	ld =n % 10;
