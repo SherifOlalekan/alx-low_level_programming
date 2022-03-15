@@ -7,25 +7,27 @@
 *
 * Program to print alphabet 10x
 */
-	void print_alphabet_x10(void)
+void print_alphabet_x10(void)
 
 {
-	int alphabet = 0;
+
+int alphabet = 0;
 
 while (alphabet < 10)
 
-	{
-	char ch = 'a';
+{
+char ch = 'a';
 
-	while (ch <= 'z')
+while (ch <= 'z')
 
-		{
-		 _putchar(ch);
-		ch++;
-		}
+{
+ _putchar(ch);
+ch++;
+}
 
-	alphabet++;
+alphabet++;
 
-	_putchar('\n');
-	}
+_putchar('\n');
+}
+
 }
