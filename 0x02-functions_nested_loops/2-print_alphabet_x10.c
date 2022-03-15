@@ -7,11 +7,11 @@
 *
 * Program to print alphabet 10x
 */
-        void print_alphabet_x10(void)
+	void print_alphabet_x10(void)
 
 {
-        int alphabet = 0;
-        while (alphabet <= 10)
+	int alphabet = 0;
+	while (alphabet <= 10)
 	{
 		char ch = 'a';
 
@@ -21,8 +21,9 @@
 		 _putchar(ch);
 		ch++;
 		}
-	}
+
 	alphabet++;
 
 	_putchar('\n');
+	}
 }
