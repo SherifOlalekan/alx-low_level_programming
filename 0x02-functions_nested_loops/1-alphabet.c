@@ -11,7 +11,7 @@
 
 {
         int i;
-        char string[26] = "_putchar";
+        char string[26] = "a..z";
 
         for (i = a; i <= z; i++)
         {
