@@ -11,11 +11,13 @@
 
 {
 	int alphabet = 0;
-	while (alphabet < 10)
-	{
-		char ch = 'a';
 
-		while (ch <= 'z')
+	while (alphabet < 10)
+
+	{
+	char ch = 'a';
+
+	while (ch <= 'z')
 
 		{
 		 _putchar(ch);
