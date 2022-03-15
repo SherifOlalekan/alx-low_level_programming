@@ -11,7 +11,7 @@
 
 {
 	int alphabet = 0;
-	while (alphabet <= 10)
+	while (alphabet < 10)
 	{
 		char ch = 'a';
 
