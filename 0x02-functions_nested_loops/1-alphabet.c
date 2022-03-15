@@ -7,18 +7,17 @@
 *
 * Program to print _putchar
 */
-        int main(void)
+	void print_alphabet(void)
 
 {
-        int i;
-        char string[26] = "a..z";
+	char i;
 
-        for (i = a; i <= z; i++)
-        {
-                _putchar(string[i]);
-        }
+	for (i = 'a'; i <= 'z'; i++)
+	{
+                _putchar(i);
+	}
 
-        _putchar('\n');
+	_putchar('\n');
 
-        return (0);
+	return (0);
 }
