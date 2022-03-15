@@ -18,10 +18,10 @@ while (alphabet < 10)
 {
 char ch = 'a';
 
-while (ch <= 'z')
+while(ch <= 'z')
 
 {
- _putchar(ch);
+_putchar(ch);
 ch++;
 }
 
