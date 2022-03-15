@@ -10,12 +10,11 @@
 	int main(void)
 
 {
-	char *s = "_putchar";
-	while (*s != '\0')
-
+	char c = "_putchar";
 	{
-		_putchar(*s);
+		_putchar(c);
 	}
+
 	_putchar('\n');
 
 	return (0);
