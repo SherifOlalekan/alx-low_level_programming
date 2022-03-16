@@ -1,36 +1,33 @@
-#include <stdio.h>
+#nclude <stdio.h>
+#include <stdlib.h>
+#define n 4000000
 
 /**
- * main - Entry point
- *
- * Return: nothing, return void
+ * main - print fibonacci numbers
+ * Return: Always 0.
  */
-
 int main(void)
 {
 /*Declaring statements*/
-long int n;
-long int num_1 = 0;
-long int num_2 = 1;
-long int nextTerm;
+unsigned long num_1, num_2, num_3;
+unsigned long result;
 
-for (n = 0; n < 50; ++n) /*Start for*/
-{
-nextTerm = num_1 + num_2;
-num_1 = num_2;
-num_2 = nextTerm;
+result = 0;
+num_1 = 1;
+num_2 = 2;
 
-if (n != 49)
+/*Start While*/
+while (num_1 <= n)
 {
-printf("%ld, ", nextTerm);
+if (num_1 % 2 == 0)
+{
+result += num_1;
 }
+num_3 = num_2;
+num_2 = num_1 + num_2;
+num_1 = num_3;
+} /*End While*/
 
-else
-{
-printf("%ld\n", nextTerm);
-}
-
-} /*End for*/
-
+printf("%lu\n", result); /*Print result*/
 return (0);
 }
