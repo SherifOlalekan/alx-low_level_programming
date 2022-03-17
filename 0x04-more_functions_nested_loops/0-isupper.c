@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * _isupper - Entry point of code to print uppercase
 * @c: return int value
